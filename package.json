@@ -1,0 +1,16 @@
+{
+  "name": "alexa-chatgpt",
+  "version": "1.0.0",
+  "description": "Alexa skill connected to OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexa Skill",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.86.0",
+    "openai": "^4.104.0"
+  }
+}
